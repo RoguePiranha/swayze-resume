@@ -37,7 +37,7 @@ Motivated software engineering student with experience in web development and di
 `September 2022 - Present`
 __Brigham Young University – Idaho__, Rexburg, ID
 
-- Devised and implemented new course curriculum and compared results for 3 different sections of class
+- Devised and implemented a new course curriculum and compared results for 3 different sections of the class
 - Provided support in teaching and leading lab sessions as well as helping 50+ students with course material during office hours
 - Graded course reflections, homework, and lab results and provided feedback to students at least twice a week
 
@@ -46,8 +46,8 @@ __Brigham Young University – Idaho__, Rexburg, ID
 `September 2021 - Present`
 __Anthem Broadband__, Idaho Falls, ID
 
-- Improved monthly lead generation from company website by an average of 250%
-- Developed new lead generating landing pages each month in Python Django
+- Improved monthly lead generation from the company website by an average of 250%
+- Developed new lead-generating landing pages each month in Python Django
 - Acquired multiple certifications in Hubspot, Google, and Microsoft Marketing platforms
 - Collaborated with top management to develop new processes for streamlining development and ensuring consistent production value
 
@@ -76,7 +76,7 @@ __Swello Marketing__, Phoenix, AZ
 - Python, Django, HTML, CSS, C++, JavaScript
 - Agile Development
 - Pair Programming
-- Problem Solving
+- Problem-Solving
 
 <!-- ### Footer
 
